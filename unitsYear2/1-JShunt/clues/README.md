@@ -4,20 +4,19 @@
 
 ===================
 ####HTML/CSS
-These programs should all be completed in either a text editor or cloud9.
+These programs must be completed in either jsBin or cloud9.
 
 | Clue  | Name | Create a webpage/website that... | Points | 
 |-------|:-------:|------|--------------|
-| 1| hello.html|  ...says "Hello, World!" in the body | 4 |
-| 2| headBody.html |...has "Hello!" as the title and "World!" written in the body |1 |
-| 3| lists.html | ...has an ordered list and an unordered list. Each list needs a title and 3 items. | 1 | 
-| 4 | img.html | ...has two images stacked on top of each other. Each image must have text under it | 3 | 
-| 5 | MyFirstWebsite  | ...contains four webpages; index.html, page1.html, page2.html, page3.html. Each webpage must have a title and one line of identifying text. | 5 | 
-| 6 | style.css  | ...Center the text on all four webpages using a link to a stylesheet. | 2 | 
-| 7 | MySite  | ...has a home page with your picture and some text. The site also needs three pages about your favorite hobbies (1 page per hobby) | 4 | 
-| 8 | Div | ...improve the index page on your site by including 3 sections each with their own div tag. | 3 |
-| 9 | Style it!  | ...improves the site created in clue 8 to include all of the following styles: font-family, font-size, background, color, padding and margin    | 5 | 
-| 10 | @media  | ...includes a media query| 3 |
+| 1| hello.html|  ...says "Hello, World!" in the body of the page| 4 |
+| 2| headBody.html |...has "Hello!" as the title and "World!" written in the body |1 | 
+| 3 | img.html | ...has two images stacked on top of each other. Each image must have text under it | 3 | 
+| 4 | div.html | ...has an image and text. The image must be in a div with the class "image" and the text must be in  a div with the ID "text"| 3 | 
+| 4 | MyFirstWebsite  | ...contains four webpages; index.html, page1.html, page2.html, page3.html. Each webpage must have a title and one line of identifying text. | 5 | 
+| 5 | style.css  | ...Center the text on all four webpages using a link to a stylesheet. | 2 | 
+| 6 | MySite  | ...has a home page with your picture and text. The site also needs three linked pages with text | 4 | 
+| 8 | Style it!  | ...improves the site created in clue 8 to include all of the following styles: font-family, font-size, background, color, padding and margin    | 5 | 
+
   
   
 ####JavaScript: Variables
@@ -55,14 +54,23 @@ These programs should all be completed in either a text editor or cloud9.
 | 3 | class.js | ...asks a student what grade they are in and responds with "You are a Freshman", Sophomore, Junior or Senior. | 3 |
 | 4 | dayOfWeek.js | ...asks what day of the week it is and has a response for each day of the week | 3 |
 | 5 | lazyEight.js | Create a Magic 8 Ball program that claims to be able to answer any question you have. However, it always answers the same thing, "IDK stop asking!" | 3 |
-| 6 | grade.js | ...can convert a test grade (1-100) to a letter grade (A-F). | 4|
+| 6 | grade.js | ...can convert a test grade (1-100) to a letter grade (A-F). | 10|
 
 ####JavaScript: Loops
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
-| 1 | count5.js | ...prints 1 through 5. | 1 | 
-| 2 | count10.js | ...prints 1 through 10. | 1 | 
+| 1 | count10.js | ...prints 1 through 10. | 1 | 
+| 2 | count476.js | ...prints 1 through 476. | 4 | 
+| 3 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
+| 4 | sum128.js | ...prints the sum of the numbers 1 through 128. (final value is 8256) | 2 | 
+| 5 | prod15.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 3 |
+
+####jQuery
+
+| Clue  | Name | Create a program that... | Points | 
+|-------|:-------:|------|--------------|
+| 1 | TV Shows| Clone the workspace at [http://jsbin.com/cuvimu/edit?html,js,output](http://jsbin.com/cuvimu/edit?html,js,output). Using jQuery add in your favorite TV shows to the webpage | 3 | 
 | 3 | count476.js | ...prints 1 through 476. | 4 | 
 | 4 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
 | 5 | sum128.js | ...prints the sum of the numbers 1 through 128. (final value is 8256) | 2 | 
