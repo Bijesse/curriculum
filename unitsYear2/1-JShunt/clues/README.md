@@ -70,10 +70,10 @@ These programs must be completed in either jsBin or cloud9.
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
 | 1 | TV Shows| Clone the workspace at [http://jsbin.com/cuvimu/edit?html,js,output](http://jsbin.com/cuvimu/edit?html,js,output). Using jQuery add in your favorite TV shows to the webpage | 3 | 
-| 3 | count476.js | ...prints 1 through 476. | 4 | 
-| 4 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
-| 5 | sum128.js | ...prints the sum of the numbers 1 through 128. (final value is 8256) | 2 | 
-| 6 | prod15.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 3 |
+| 2 | count476.js | ...prints 1 through 476. | 4 | 
+| 3 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
+| 4 | sum128.js | ...prints the sum of the numbers 1 through 128. (final value is 8256) | 2 | 
+| 5 | prod15.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 3 |
 
 ####GitHub
 
