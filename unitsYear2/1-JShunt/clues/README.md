@@ -28,8 +28,8 @@ These programs must be completed in either jsBin or cloud9.
 | 3 | age.js | ...asks for your name and age then prints out how old you are in a string. | 2 | 
 | 4| hello3ages.js | ...asks for the names and ages of all the teachers in this class then prints their names and ages. | 6 | 
 | 5 | avg.js | ...asks for two numbers and prints the average of those two numbers. | 2 |
-| 6 | madlibs1.js  | ...asks for one item then prints out a sentence using that item.    | 2 | 
-| 7 | madlibs3.js  | ...asks for three items then prints out a story using all three items.| 4 |
+| 6 | madlibs1.js  | ...asks for one part of speech (ex: noun) then prints out a sentence using that item.    | 2 | 
+| 7 | madlibs3.js  | ...asks for three parts of speech (ex: noun) then prints out a story using all three items.| 4 |
 | 8| msPotato.js|  ...has a variable called "msPotato" and is set to the string "I'm packing your angry eyes." Print the string  | 1 |
 | 9a| length |...prints out the length of the string. |2 |
 | 9b | nose  | ...replaces the word shoes with "nose"| 2 |
@@ -62,23 +62,22 @@ These programs must be completed in either jsBin or cloud9.
 | 1 | colors.js | ...has an array called colors and consists of 4 colors. | 2 | 
 | 2 | colorPicker.js | ...prints the third color in your array | 2 | 
 | 3 | colorLoop.js | ...loops through your array one index at a time based on button clicks | 5 | 
-| 4 | 99bottles.js | ...counts down from 99 to 1 repeating the string "# bottles of milk on the wall, # bottles of milk" | 3 | 
+| 4 | 99bottles.js | ...counts down from 99 to 1 repeating the string "# bottles of milk on the wall, # bottles of milk" | 4 | 
 
 
 ####jQuery
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
-| 1 | TV Shows| Clone the workspace at [http://jsbin.com/cuvimu/edit?html,js,output](http://jsbin.com/cuvimu/edit?html,js,output). Using jQuery add in your favorite TV shows to the webpage | 3 | 
-| 2 | count476.js | ...prints 1 through 476. | 4 | 
-| 3 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
-| 4 | sum128.js | ...prints the sum of the numbers 1 through 128. (final value is 8256) | 2 | 
-| 5 | prod15.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 3 |
+| 1 | TV Shows| Clone the workspace at [http://jsbin.com/cuvimu/edit?html,js,output](http://jsbin.com/cuvimu/edit?html,js,output). Using jQuery add in your favorite TV shows to the webpage | 4 | 
+| 2 | Bold TV | ...has bold text created using only jQuery | 2 | 
+| 3 | TV Images | ...includes an image of both TV shows from clue 1. Do this only using jQuery.  | 2 | 
+| 4 | Click Handlers| ...uses click handlers to both div's so that clicking on one prints out the text of the clicked div to the console. | 6 | 
 
 ####GitHub
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
-| 1 | Follow | Follow one of the instructors on GitHub | 2 | 
+| 1 | Follow | Follow one of the teachers on GitHub | 2 | 
 | 2 | Fork | Fork an instructors repo and add a .txt file with your name in it. | 3 | 
 | 3 | Pull | Send a pull request to the instructor | 2 |
