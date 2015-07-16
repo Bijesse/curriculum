@@ -35,7 +35,7 @@ By the end of this project the employee will be able to...
 You are given Starter Code for this project which you must clone into your own workspace.
 You will notice that there are comments inside the script.js file that provide instructions for how components of this project should be made.  
 
-####In order to make Rock, Paper, Scissors functional you will need to complete the five tasks below:
+####In order to make Rock, Paper, Scissors functional you will need to complete the three tasks below:
 
 ###1) Clone this repo into your own Cloud9 account workspace
 1. Copy the "clone URL" from this repo
