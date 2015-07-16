@@ -50,7 +50,7 @@ To push to GitHub run the following commands in your terminal:
 `git status`  
 `git add .`  
 `git commit -m "example comment"`  
-`git push origin`
+`git push origin master`
 
 
 ###2) index.html
@@ -81,7 +81,7 @@ To push to GitHub run the following commands in your terminal:
 `git status`  
 `git add .`  
 `git commit -m "example comment"`  
-`git push origin`
+`git push origin master`
 
 ##Homework
 Instructor will assign homework based on progress in class.
