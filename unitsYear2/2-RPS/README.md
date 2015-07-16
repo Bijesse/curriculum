@@ -87,12 +87,3 @@ To push to GitHub run the following commands in your terminal:
 Instructor will assign homework based on progress in class.
 
 
-
-## Proper credit for images
-1. RPS: https://www.flickr.com/photos/ifmomsaysok/4262635874
-2. RPSLS: https://www.flickr.com/photos/elsantuario/6448112917
-3. Scissors: https://www.flickr.com/photos/arriabelli/2500283558
-4. Paper: https://www.flickr.com/photos/calliope/3468811439
-5. Rock: https://www.flickr.com/photos/kansasphoto/6157668054
-6. Lizard: https://www.flickr.com/photos/mdalmuld/14431710441
-7. Spock: https://www.flickr.com/photos/israel-avila/3676210312
