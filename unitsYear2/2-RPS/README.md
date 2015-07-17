@@ -30,8 +30,17 @@ By the end of this project the employee will be able to...
 * [JQuery Events](http://api.jquery.com/category/events/)
 * [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
  
+##Vocabulary
+
+* Random
+* Function
+* Conditional
+* Evaluate 
+* Return 
+
 
 ##Instructions
+***
 You are given Starter Code for this project which you must clone into your own workspace.
 You will notice that there are comments inside the script.js file that provide instructions for how components of this project should be made.  
 
@@ -52,27 +61,22 @@ To push to GitHub run the following commands in your terminal:
 `git commit -m "example comment"`  
 `git push origin master`
 
-
+***
 ###2) index.html
 The HTML file in this repo is not fully complete as of right now. Follow the comments within the file before moving on to the script.js file.
-
+***
 ###3) script.js
 Use the comments within the script.js file to help you complete the missing components of this game. Luckily, the former intern left very detailed comments that are easy to follow.
-
+***
 ###Bonus) 
 Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
 
 * Add CSS to this project using Bootstrap. Give it it's own theme
 * Create a game with more variety in throwing opitons. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock) 
+***
 
-##Vocabulary
-
-* Random
-* Function
-* Conditional
-* Evaluate 
-* Return 
-
+##Grading Criteria
+Your manager will be grading your capibility on this project based on [this rubric](/assessment.md)
 
 ##How to Submit
 This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor
