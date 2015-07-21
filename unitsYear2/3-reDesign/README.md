@@ -28,6 +28,7 @@ By the end of this project the employee will be able to...
 ##References/Tools
 * [What is a wireframe?](https://en.wikipedia.org/wiki/Website_wireframe)
 * [Online Wireframing Tool](http://wireframe.cc) (Optional tool)
+* [How to create a GitHub Repository](https://help.github.com/articles/create-a-repo/)
 * [Bootstrap](http://getbootstrap.com/)
 
 ##Vocabulary
@@ -39,16 +40,19 @@ By the end of this project the employee will be able to...
 ***
 ##Instructions
 
-There is no Starter Code for this project. Before beginning you must first wireframe the page you will make. 
-
-####In order to make Rock, Paper, Scissors functional you will need to complete the three tasks below:
+There is no Starter Code for this project. Before beginning to write code you must first wireframe the page you will make. 
 
 ###1) Wireframe
 1. You may choose to wireframe this site with pen and paper or with a free online wireframing tool.
 2. Your wireframe must be approved by an instructor before moving onto step 2.
 
 ###2) Create a GitHub Repo
-Before you begin writing the code for this project one member of the group must first create a new repository in GitHub. For information on how to create a new GitHub Repository see this worksheet.
+Before you begin writing the code for this project one member of the group must first create a new repository in GitHub.   
+For information on how to create a new GitHub Repository see [this resource](https://help.github.com/articles/create-a-repo/).
+
+###3) Create a new Cloud9 Workspace
+
+
 
 
 The HTML file in this repo is not fully complete as of right now. Follow the comments within the file before moving on to the script.js file.
