@@ -50,12 +50,12 @@ There is no Starter Code for this project. Before beginning to write code you mu
 Before you begin writing the code for this project one member of the group must first create a new repository in GitHub.   
 For information on how to create a new GitHub Repository see [this resource](https://help.github.com/articles/create-a-repo/).
 
-###3) Create a new Cloud9 Workspace
+###3) Clone your new repo into a Cloud9 account workspace
+1. Copy the "clone URL" from your new repository
+2. In your Cloud9 dashboard click on the "Create a New Workspace" button and select "Clone from URL"
+3. Give this workspace an name that is appropriate and be sure it is set to public.
+4. Insert the clone URL from this repo and select a custom template
 
-
-
-
-The HTML file in this repo is not fully complete as of right now. Follow the comments within the file before moving on to the script.js file.
 Once the workspace has been processed check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
 ![Imgur](http://i.imgur.com/RKdsduL.png)
 
@@ -67,11 +67,10 @@ To push to GitHub run the following commands in your terminal:
 `git commit -m "example comment"`  
 `git push origin master`
 
+###4) Share your Cloud9 workspace with your partner
+You and your partner can work on the code for this project at the same time using the collaboration feature in CLoud9.
 
-
-
-###3) script.js
-Use the comments within the script.js file to help you complete the missing components of this game. Luckily, the former intern left very detailed comments that are easy to follow.
+In order to set this up click on the "Share" Button in the top-right hand corner of your workspace
 
 ###Bonus) 
 Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
